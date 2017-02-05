@@ -26,10 +26,14 @@ ul {
   /*font-size: 18px;*/
 }
 
-.row{
+.row {
   margin-top: 20px;
 }
 
-.works{
+.works {
   padding-left: 40px;
+}
+
+.avatar {
+  height: 160px;
 }
